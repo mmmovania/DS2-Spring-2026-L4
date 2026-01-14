@@ -90,3 +90,6 @@ make
 - Code shared here is for **practice and learning**
 - Students should **not copy blindly**
 - Understanding the logic is more important than memorization
+
+## Practice 1 - Sorting algorithms: Bubble sort, Insertion sort and Quick sort 
+The repository contains a folder sorts_cpp_algorithms containing empty bubble sort, insertion sort and quick sort functions. Your task is to implement these algorithms in their respective src files.
